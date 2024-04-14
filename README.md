@@ -1,2 +1,2 @@
 # NeuralNetworkWithoutFramework
-This project, developed during my studies, primarily focused on learning and understanding various aspects of neural networks. The main objectives included experimenting with different activation functions and gaining insight into the mechanics of backward propagation. 
+This project, developed during my studies, primarily focused on learning and understanding various aspects of neural networks. The main objectives included experimenting with different activation functions and gaining insight into the mechanics of backward propagation. The project was not aimed at achieving high levels of loss or accuracy, but rather at deepening my understanding of fundamental concepts in neural network development.
